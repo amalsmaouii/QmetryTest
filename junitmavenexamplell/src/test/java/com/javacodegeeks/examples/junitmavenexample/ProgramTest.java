@@ -17,7 +17,7 @@ public class ProgramTest {
 
 	@Test
 	public void IsOver16() {
-		assertTrue(Program.getAge() > 16);
+		assertTrue(Program.getAge() > 10);
 
 	}
 
@@ -28,14 +28,5 @@ public class ProgramTest {
 		assertEquals("HelloWorld", result);
 	}
 
-	@Test
-	
-	void test_ValueSource(int i) {
-		System.out.println(i);
-	}
 
-	@Test
-	void test_ValueSource_String(String s) {
-		assertTrue(Integer.parseInt(s) < 5);
-	}
 }

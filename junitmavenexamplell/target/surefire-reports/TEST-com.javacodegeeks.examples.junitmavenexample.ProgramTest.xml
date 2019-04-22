@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0.025" tests="5" errors="0" skipped="0" failures="2">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.javacodegeeks.examples.junitmavenexample.ProgramTest" time="0" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -61,23 +61,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="testSum" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0.004">
-    <failure message="expected:&lt;8&gt; but was:&lt;7&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<8> but was:<7>
-	at com.javacodegeeks.examples.junitmavenexample.CalculatorTest.testSum(CalculatorTest.java:36)
-]]></failure>
-    <system-out><![CDATA[This is executed before each Test
-This is exceuted after each Test
-]]></system-out>
-  </testcase>
-  <testcase name="testEqual" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0">
-    <failure type="java.lang.AssertionError">java.lang.AssertionError
-	at com.javacodegeeks.examples.junitmavenexample.CalculatorTest.testEqual(CalculatorTest.java:60)
-</failure>
-    <system-out><![CDATA[This is executed before each Test
-This is exceuted after each Test
-]]></system-out>
-  </testcase>
-  <testcase name="testSubstraction" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0"/>
-  <testcase name="testDivisionException" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0"/>
-  <testcase name="testDivison" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0"/>
+  <testcase name="IsOver16" classname="com.javacodegeeks.examples.junitmavenexample.ProgramTest" time="0"/>
+  <testcase name="createMessageTest" classname="com.javacodegeeks.examples.junitmavenexample.ProgramTest" time="0"/>
+  <testcase name="testConcat" classname="com.javacodegeeks.examples.junitmavenexample.ProgramTest" time="0"/>
 </testsuite>
