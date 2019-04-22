@@ -33,7 +33,7 @@ public class CalculatorTest {
 	public void testSum() {
 		int result = calculator.sum(3, 4);
 
-		assertEquals(7, result);
+		assertEquals(8, result);
 	}
 
 	@Test
@@ -52,7 +52,7 @@ public class CalculatorTest {
 		calculator.divison(10, 0);
 	}
 
-	@Ignore
+	
 	@Test
 	public void testEqual() {
 		boolean result = calculator.equalIntegers(20, 20);

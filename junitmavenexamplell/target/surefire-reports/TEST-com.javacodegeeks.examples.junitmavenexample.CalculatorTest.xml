@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0.02" tests="5" errors="0" skipped="1" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\amal.smaoui\git\QmetryTest\junitmavenexamplell\target\test-classes;C:\Users\amal.smaoui\git\QmetryTest\junitmavenexamplell\target\classes;C:\Users\amal.smaoui\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\amal.smaoui\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Africa/Luanda"/>
+    <property name="user.country.format" value="TN"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\AMAL~1.SMA\AppData\Local\Temp\surefire1395812978210820373\surefirebooter551371151815364409.jar C:\Users\amal.smaoui\AppData\Local\Temp\surefire1395812978210820373 2019-04-22T21-51-39_373-jvmRun1 surefire6464585412855663048tmp surefire_04061376604247300468tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\amal.smaoui\git\QmetryTest\junitmavenexamplell\target\test-classes;C:\Users\amal.smaoui\git\QmetryTest\junitmavenexamplell\target\classes;C:\Users\amal.smaoui\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\amal.smaoui\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\amal.smaoui"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_201\jre"/>
+    <property name="basedir" value="C:\Users\amal.smaoui\git\QmetryTest\junitmavenexamplell"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\AMAL~1.SMA\AppData\Local\Temp\surefire1395812978210820373\surefirebooter551371151815364409.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_201\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_201-b09"/>
+    <property name="user.name" value="amal.smaoui"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\amal.smaoui\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\AMAL~1.SMA\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_201"/>
+    <property name="user.dir" value="C:\Users\amal.smaoui\git\QmetryTest\junitmavenexamplell"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\amal.smaoui\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven/bin;C:\Program Files\Java\jdk1.8.0_201/bin;C:\Program Files\Java\jdk1.8.0_201/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\amal.smaoui\AppData\Local\Microsoft\WindowsApps;C:\Users\amal.smaoui\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\amal.smaoui\AppData\Roaming\npm;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE;C:\DEV\apache-maven-3.6.0\bin;C:\Program Files\Java\jdk1.8.0_201\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.201-b09"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testSum" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0.001"/>
+  <testcase name="testEqual" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSubstraction" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0"/>
+  <testcase name="testDivisionException" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0"/>
+  <testcase name="testDivison" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0"/>
+</testsuite>
