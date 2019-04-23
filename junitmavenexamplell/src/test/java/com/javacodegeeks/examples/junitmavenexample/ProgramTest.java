@@ -12,7 +12,7 @@ public class ProgramTest {
 
 	@Test
 	public void createMessageTest() {
-		assertEquals("Hello World", Program.createMessage());
+		assertEquals("Hello World ", Program.createMessage());
 	}
 
 	@Test
@@ -24,7 +24,7 @@ public class ProgramTest {
 	@Test
 	public void testConcat() {
 		Program myConcat = new Program();
-		String result = myConcat.concat("Hello", "World");
+		String result = myConcat.concat("Hello ", "World");
 		assertEquals("HelloWorld", result);
 	}
 

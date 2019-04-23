@@ -19,7 +19,7 @@
     <property name="user.country" value="FR"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\AMAL~1.SMA\AppData\Local\Temp\surefire168599839164110144\surefirebooter3543755969545557030.jar C:\Users\amal.smaoui\AppData\Local\Temp\surefire168599839164110144 2019-04-23T00-25-54_846-jvmRun1 surefire6090979761233312408tmp surefire_08793191326815656324tmp"/>
+    <property name="sun.java.command" value="C:\Users\AMAL~1.SMA\AppData\Local\Temp\surefire6674597188922423765\surefirebooter1014160660290592006.jar C:\Users\amal.smaoui\AppData\Local\Temp\surefire6674597188922423765 2019-04-23T01-13-44_217-jvmRun1 surefire2301535743620365533tmp surefire_02986989964369261906tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\amal.smaoui\git\QmetryTest\junitmavenexamplell\target\test-classes;C:\Users\amal.smaoui\git\QmetryTest\junitmavenexamplell\target\classes;C:\Users\amal.smaoui\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\amal.smaoui\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\amal.smaoui"/>
@@ -32,7 +32,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\AMAL~1.SMA\AppData\Local\Temp\surefire168599839164110144\surefirebooter3543755969545557030.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\AMAL~1.SMA\AppData\Local\Temp\surefire6674597188922423765\surefirebooter1014160660290592006.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_201\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
